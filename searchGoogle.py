@@ -12,7 +12,7 @@ def remove_tags(link):
 
 	if link:
 		str = link.__str__()
-		print str
+		#print str
 		#get the index for '<' position
 		startIndex = [a.start() for a in list(re.finditer('<', str))]
 
@@ -61,14 +61,41 @@ def twitterLinkParser(data):
 			#h2_headings.append('no id')
 			#	print 'no id'
 
-	print listOfLink
+	return listOfLink
 
+def twitterHandleExtractor(listOfLinks):
+
+	twitterlinks = list()
+
+	if listOfLinks:
+		print 'listOfLinks not null'		
+		for i in listOfLinks:
+			if 'twitter.com' in i:
+				twitterlinks.append(i)
+
+	return twitterlinks
 
 def main():
-	url = protocol + base + url_type + query_argument + query_str	
-	print url
-	content = http.get(url)
-	twitterLinkParser(content)
+	
+	fileCSV = open("../confList.csv")
+	fileCSVtwitterConf = open("../twitterlist.csv", "w")
+	for line in fileCSV:
+		domainConf = line.split('\t')
+		conf = domainConf[1]
+		conf = conf[0:len(conf)-1]
+		conf = conf.replace(' ', '+')
+		conf = conf + '+twitter'
+		#print conf
+		url = protocol + base + url_type + query_argument + conf	
+		#print url
+		content = http.get(url)
+		twitterLinks = twitterHandleExtractor(twitterLinkParser(content))
+		if twitterLinks and len(twitterLinks)>0:
+			for i in twitterLinks:
+				string = domainConf[0] +'\t'+conf+'\t'+i+'\n'
+				print string
+				fileCSVtwitterConf.write(string)
+	
 
 if __name__ == "__main__":
 	main()

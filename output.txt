@@ -1,0 +1,71 @@
+International+Conference+on+Architectural+Support+for+Programming+Languages+and+Operating+Systems
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+International+Symposium+on+Computer+Architecture
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+International+Symposium+on+Microarchitecture
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+International+Symposium+on+High-Performance+Computer+Architecture
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+International+Symposium+on+Circuits+and+Systems
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+Real-Time+Systems+Symposium
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+Real-Time+and+Embedded+Technology+and+Applications+Symposium
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+Conference+on+Languages,+Compilers,+and+Tools+for+Embedded+Systems
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+International+Conference+on+Compilers,+Architecture,+and+Synthesis+for+Embedded+Systems
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+International+Conference+on+Embedded+Software
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+Euromicro+Conference+on+Real-Time+Systems
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+International+Workshop+on+Software+and+Compilers+for+Embedded+Systems
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+Design+Automation+Conference
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+International+Conference+on+Computer-Aided+Design
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+Design,+Automation,+and+Test+in+Europe
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+Asia+and+South+Pacific+Design+Automation+Conference
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+International+Symposium+on+Physical+Design
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+Symposium+on+Operating+Systems+Principles
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+Symposium+on+Operating+Systems+Design+and+Implementation
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+USENIX+Annual+Technical+Conference
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+USENIX+Conference+on+File+and+Storage+Technologies
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+European+Conference+on+Computer+Systems
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+International+Middleware+Conference
++twitter
+['www.wikicfp.com/cfp/servlet/event.showcfp?eventid=30509...', 'www.wikicfp.com/cfp/call?conference=programming%20languages', 'en.wikipedia.org/wiki/Twitter', 'splashcon.org/', 'ropas.snu.ac.kr/~kwang/', 'icfpconference.org/icfp2013/', 'hillside.net/plop/', 'ilp13.cos.ufrj.br/', 'www.cs.pomona.edu/~kim/why.pdf', 'cs.stanford.edu/~lam']
+Workshop+on+Hot+Topics+in+Operating+Systems
++twitter
